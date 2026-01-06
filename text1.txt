@@ -5,3 +5,13 @@ file author is naimish harkhani
 i am currently doing git practices
 
 Here are the some practicals.
+
+git clone
+git checkout
+git commit
+git fetch
+git pull
+git push
+Pull Request 
+
+General flow of the Git commands.
