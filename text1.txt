@@ -15,3 +15,15 @@ file is changed in vs code
 
 
 file is changed in vs code second time 
+
+
+
+1. add files
+2. commit changes
+3. push changes to github
+4. pull latest changes from github
+5. fetch
+6. create a new branch 
+7. switch branches
+8. merge branches
+9. resolve merge conflicts
