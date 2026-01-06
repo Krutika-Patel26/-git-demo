@@ -27,3 +27,5 @@ file is changed in vs code second time
 7. switch branches
 8. merge branches
 9. resolve merge conflicts
+
+This is the flow of the git.
