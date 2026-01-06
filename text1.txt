@@ -29,3 +29,14 @@ file is changed in vs code second time
 9. resolve merge conflicts
 
 This is the flow of the git.
+Here are the some practicals.
+
+git clone
+git checkout
+git commit
+git fetch
+git pull
+git push
+Pull Request 
+
+General flow of the Git commands.

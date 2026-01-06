@@ -12,3 +12,4 @@ git push
 Pull Request 
 
 General flow of the Git commands.
+I am learning the task of various git commands.
