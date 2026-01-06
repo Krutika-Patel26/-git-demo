@@ -1,0 +1,3 @@
+Hello world!
+This is the practice file.
+I am learning the task of various git commands.
