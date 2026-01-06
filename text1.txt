@@ -29,3 +29,6 @@ file is changed in vs code second time
 9. resolve merge conflicts
 
 that's it
+
+
+final
