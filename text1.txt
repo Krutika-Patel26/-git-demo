@@ -1,0 +1,5 @@
+this is my first text file
+
+file author is naimish harkhani 
+
+i am currently doing git practices
