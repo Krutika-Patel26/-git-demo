@@ -5,3 +5,9 @@ file author is naimish harkhani
 i am currently doing git practices
 
 now i am doing switching between two branch
+
+using vs code
+
+
+
+file is changed in vs code
