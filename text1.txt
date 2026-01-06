@@ -4,6 +4,31 @@ file author is naimish harkhani
 
 i am currently doing git practices
 
+now i am doing switching between two branch
+
+using vs code
+
+
+
+file is changed in vs code
+
+
+
+file is changed in vs code second time 
+
+
+
+1. add files
+2. commit changes
+3. push changes to github
+4. pull latest changes from github
+5. fetch
+6. create a new branch 
+7. switch branches
+8. merge branches
+9. resolve merge conflicts
+
+This is the flow of the git.
 Here are the some practicals.
 
 git clone

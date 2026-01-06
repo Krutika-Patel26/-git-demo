@@ -1,3 +1,15 @@
 Hello world!
 This is the practice file.
 I am learning the task of various git commands.
+Here is the practical of conflict handling in the git.
+
+git clone
+git checkout
+git commit
+git fetch
+git pull
+git push
+Pull Request 
+
+General flow of the Git commands.
+I am learning the task of various git commands.
