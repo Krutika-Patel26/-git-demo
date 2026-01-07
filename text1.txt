@@ -34,3 +34,14 @@ that's it
 final
 
 final 2
+Here are the some practicals.
+
+git clone
+git checkout
+git commit
+git fetch
+git pull
+git push
+Pull Request 
+
+General flow of the Git commands.
